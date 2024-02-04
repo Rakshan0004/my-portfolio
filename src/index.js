@@ -4,4 +4,3 @@ import { targetElements, defaultProps } from "./data/scrollRevealConfig";
 
 initScrollReveal(targetElements, defaultProps);
 initTiltEffect();
-
